@@ -1,0 +1,12 @@
+.stack{
+  margin-top: 20px;
+  padding: 10px;
+}
+.card-item{
+  width: 80%;
+  margin: 10px 10px;
+  transition: ease-in 0.2s;
+}
+.card-item:hover{
+  box-shadow:5px 5px 8px 0px rgba(50, 50, 50, 0.75);
+}

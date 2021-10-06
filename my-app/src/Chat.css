@@ -1,0 +1,42 @@
+.chat{
+  height: 100vh;
+  width: 70%;
+margin: 20px auto;
+display: flex;
+flex-direction: column;
+border: 1px grey solid;
+}
+.chatTitle{
+  padding: 15px;
+    background-color: blue;
+  color: white;
+}
+.chatArea{
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  overflow-y: scroll;
+
+}
+.chatType{
+  align-items: flex-end;
+  padding: 5px;
+  border-radius: 10px;
+}
+.botchat{
+  background-color: #bce6eb;
+  padding: 8px;
+display: block;
+width: 50%;
+border-radius: 10px;
+margin-right: auto;
+}
+.userchat{
+  background-color: #e7e6e1;
+display: block;
+width: 50%;
+margin-left: auto;
+  padding: 8px;
+  border-radius: 10px;
+}

@@ -1,0 +1,40 @@
+.search-icon{
+  margin-top: 8px;
+  margin-right: 10px;
+
+}
+.search-header{
+  margin-top: 20px;
+}
+.search-content{
+  padding: 20px;
+  border: 1px #cdc9c3 solid;
+  border-radius: 10px;
+  margin-top: 30px;
+}
+.list-group-item{
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+}
+.des{
+  font-size: 1rem;
+  color: grey;
+  padding-left: 10px;
+}
+.img-fluid{
+  width: 40%;
+  margin-left: 250px;
+  margin-top: 80px;
+
+}
+.load{
+  margin-left: 350px;
+}
+.op-area{
+  padding:20px;
+}
+.op-item{
+    box-shadow: 5px 7px 12px -2px rgba(0,0,0,0.75);
+  width: 30rem;
+  margin: 25px auto;
+}
